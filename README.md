@@ -6,7 +6,7 @@ Currently, the available perspectives are
 
 + Motion Quantification
 + Anatomical Measurements
-+ Scar Quantification `sop`, `vid`, ´par´
++ Scar Quantification `sop`, `vid`, `par`
 + Morphological Measurements `par`
 + Electrophysiology Simulations
 
