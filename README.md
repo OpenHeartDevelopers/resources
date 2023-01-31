@@ -12,4 +12,4 @@ Currently, the available perspectives are
 
 > `sop`: Standard Operating Procedure document available | 
 > `par`: Default parameter files available | 
-> `vid` : Video tutorial available (hosted on [Youtube](https://www.youtube.com/channel/UCOp6Hyaq6p2cD46ENmW8RWA)
+> `vid` : Video tutorial available (hosted on [Youtube](https://www.youtube.com/channel/UCOp6Hyaq6p2cD46ENmW8RWA))
