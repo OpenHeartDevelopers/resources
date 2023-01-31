@@ -10,6 +10,6 @@ Currently, the available perspectives are
 + Morphological Measurements `par`
 + Electrophysiology Simulations
 
-> `sop`: Standard Operating Procedure document available | 
-> `par`: Default parameter files available | 
-> `vid` : Video tutorial available (hosted on [Youtube](https://www.youtube.com/channel/UCOp6Hyaq6p2cD46ENmW8RWA))
+> `sop`: Standard Operating Procedure document available <br>
+> `vid` : Video tutorial available (hosted on [Youtube](https://www.youtube.com/channel/UCOp6Hyaq6p2cD46ENmW8RWA)) <br>
+> `par`: Default parameter files available 
